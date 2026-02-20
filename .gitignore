@@ -1,0 +1,20 @@
+# Internal / agent files
+AGENTS.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Generated images (created at runtime)
+parrots_gray.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
