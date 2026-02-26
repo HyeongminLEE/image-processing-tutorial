@@ -24,6 +24,7 @@
 7. Histograms
 8. Histogram Stretching
 9. Histogram Equalization
+10. HSV Color Space
 
 ## Exercises
 
@@ -40,3 +41,4 @@
 - [ ] **Exercise 7.2** — Negative histogram comparison
 - [ ] **Exercise 8.1** — Percentile-based histogram stretching
 - [ ] **Exercise 9.1** — Histogram equalization from scratch
+- [ ] **Exercise 10.1** — Color pop effect (HSV selective desaturation)
