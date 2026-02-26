@@ -11,6 +11,9 @@ __pycache__/
 # Generated images (created at runtime)
 parrots_gray.jpg
 
+# Temporary / scratch files (not for distribution)
+tmp/
+
 # OS
 .DS_Store
 Thumbs.db
