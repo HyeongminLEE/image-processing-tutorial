@@ -24,5 +24,4 @@
 - [ ] **Exercise 1.2** — Explore adaptive threshold offset parameter
 - [ ] **Exercise 2.1** — Opening iterations: noise removal vs object shrinkage
 - [ ] **Exercise 3.1** — Find largest and smallest coins by area
-- [ ] **Exercise 3.2** — Full pipeline comparison (Otsu binary input)
 - [ ] **Final Challenge** — Rice grain segmentation pipeline
