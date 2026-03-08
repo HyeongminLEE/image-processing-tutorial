@@ -20,6 +20,7 @@
 4. Element-wise Arithmetic
 5. Reshape & Dimensions
 6. Concatenate & Stack
+7. Reading Array Shape
 
 ## Exercises
 
