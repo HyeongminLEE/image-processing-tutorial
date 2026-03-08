@@ -15,10 +15,11 @@
 ## Contents
 
 1. Creating Arrays
-2. Indexing & Slicing
-3. Element-wise Arithmetic
-4. Reshape & Dimensions
-5. Concatenate & Stack
+2. arange & linspace
+3. Indexing & Slicing
+4. Element-wise Arithmetic
+5. Reshape & Dimensions
+6. Concatenate & Stack
 
 ## Exercises
 
