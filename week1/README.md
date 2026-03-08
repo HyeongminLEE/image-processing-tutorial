@@ -24,4 +24,4 @@
 ## Exercises
 
 - [ ] **Exercise 1** — Reshape an array and compute the mean of a center block
-- [ ] **Exercise 2** — Build a mini RGB image with colored quadrants
+- [ ] **Exercise 2** — Split and swap matrix halves with slicing and concatenate
