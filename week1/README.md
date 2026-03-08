@@ -15,12 +15,12 @@
 ## Contents
 
 1. Creating Arrays
-2. arange & linspace
-3. Indexing & Slicing
-4. Element-wise Arithmetic
-5. Reshape & Dimensions
-6. Concatenate & Stack
-7. Reading Array Shape
+2. Array Shape & Element Access
+3. arange & linspace
+4. Slicing
+5. Element-wise Arithmetic
+6. Reshape & Dimensions
+7. Concatenate & Stack
 
 ## Exercises
 
