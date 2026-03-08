@@ -26,4 +26,3 @@
 - [ ] **Exercise 4.2** — Optimal Gaussian filter search (sweep sigma, plot PSNR)
 - [ ] **Exercise 5.1** — Sobel gradient magnitude & direction visualization
 - [ ] **Exercise 5.2** — Edge detection on noisy images (Sobel vs Laplacian vs LoG vs Canny)
-- [ ] **Final Challenge** — Bilateral filter: edge-preserving denoising

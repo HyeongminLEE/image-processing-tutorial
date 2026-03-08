@@ -29,4 +29,3 @@
 - [ ] **Exercise 4.2** — Boost a frequency component, observe wave patterns
 - [ ] **Exercise 5.1** — Gamma correction + sharpening pipeline
 - [ ] **Exercise 5.2** — Sharpening a noisy image
-- [ ] **Final Challenge** — Separate the Einstein–Monroe hybrid image

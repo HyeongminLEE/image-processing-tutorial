@@ -14,7 +14,6 @@
 
 ## Contents
 
-0. NumPy Crash Course
 1. Loading and Exploring Images
 2. Color Channels
 3. Flip, Rotate & Crop
@@ -28,17 +27,13 @@
 
 ## Exercises
 
-- [ ] **Exercise 0.1** — Array reshape & center-block mean
 - [ ] **Exercise 2.1** — Channel separation (R/G/B-only images)
 - [ ] **Exercise 3.1** — 180° rotation via slicing
-- [ ] **Exercise 3.2** — Crop & horizontal flip
 - [ ] **Exercise 4.1** — High-contrast negative
-- [ ] **Exercise 4.2** — Color image brightness adjustment
 - [ ] **Exercise 5.1** — Gamma correction comparison (5 values)
 - [ ] **Exercise 6.1** — Piecewise LUT implementation
 - [ ] **Exercise 6.2** — Warm tone effect (per-channel gamma)
 - [ ] **Exercise 7.1** — Histogram mode & percentile range
-- [ ] **Exercise 7.2** — Negative histogram comparison
 - [ ] **Exercise 8.1** — Percentile-based histogram stretching
 - [ ] **Exercise 9.1** — Histogram equalization from scratch
 - [ ] **Exercise 10.1** — Color pop effect (HSV selective desaturation)
