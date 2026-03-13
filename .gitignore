@@ -1,5 +1,6 @@
 # Internal / agent files
 AGENTS.md
+helpers.py
 .claude/
 
 # Python
