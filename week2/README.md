@@ -15,11 +15,10 @@
 ## Contents
 
 1. Loading and Exploring Images
-2. Color Channels
-3. Flip, Rotate & Crop
-4. Point Processing — Brightness & Contrast
+3. Flip, Rotate, and Crop
+4. Point Processing: Arithmetic Operations
 5. Gamma Correction
-6. Look-Up Tables (LUT)
+6. Lookup Tables (LUT)
 7. Histograms
 8. Histogram Stretching
 9. Histogram Equalization
@@ -28,12 +27,8 @@
 ## Exercises
 
 - [ ] **Exercise 2.1** — Channel separation (R/G/B-only images)
-- [ ] **Exercise 3.1** — 180° rotation via slicing
-- [ ] **Exercise 4.1** — High-contrast negative
-- [ ] **Exercise 5.1** — Gamma correction comparison (5 values)
 - [ ] **Exercise 6.1** — Piecewise LUT implementation
-- [ ] **Exercise 6.2** — Warm tone effect (per-channel gamma)
-- [ ] **Exercise 7.1** — Histogram mode & percentile range
+- [ ] **Exercise 6.2** — Warm tone effect (per-channel gamma LUT)
 - [ ] **Exercise 8.1** — Percentile-based histogram stretching
-- [ ] **Exercise 9.1** — Histogram equalization from scratch
+- [ ] **Exercise 9.1** — Histogram equalization (grayscale → color)
 - [ ] **Exercise 10.1** — Color pop effect (HSV selective desaturation)
