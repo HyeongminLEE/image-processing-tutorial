@@ -26,5 +26,4 @@
 - [ ] **Exercise 3.1** — Apply box filter to a color image
 - [ ] **Exercise 3.2** — Original minus smoothed = high-frequency detail
 - [ ] **Exercise 4.1** — Frequency-domain low-pass radius experiment
-- [ ] **Exercise 5.1** — Gamma correction + sharpening pipeline
-- [ ] **Exercise 5.2** — Sharpening a noisy image
+- [ ] **Exercise 5.1** — Sharpening a noisy image
