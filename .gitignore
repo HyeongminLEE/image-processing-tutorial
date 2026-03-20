@@ -14,6 +14,7 @@ parrots_gray.jpg
 
 # Temporary / scratch files (not for distribution)
 tmp/
+term_projects/
 
 # OS
 .DS_Store
