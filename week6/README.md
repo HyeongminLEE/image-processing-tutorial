@@ -20,6 +20,5 @@
 
 ## Exercises
 
-- [ ] **Exercise 1.1** — Identify transform type (rigid / similarity / affine) from matrices
-- [ ] **Exercise 1.2** — Compose scale + rotate + translate and warp an image
-- [ ] **Exercise 2.1** — Document scanning: compute homography and warp a signboard to frontal view
+- [ ] **Exercise 1.1** — Rotate an image around its center using translate-rotate-translate composition
+- [ ] **Exercise 2.1** — Document scanning: find sign corners, compute homography, warp to frontal view
