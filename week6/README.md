@@ -20,5 +20,5 @@
 
 ## Exercises
 
-- [ ] **Exercise 1.1** — Rotate an image around its center using translate-rotate-translate composition
+- [ ] **Exercise 1.1** — Scale + rotate an image around its center using translate-scale-rotate-translate composition
 - [ ] **Exercise 2.1** — Document scanning: find sign corners, compute homography, warp to frontal view
