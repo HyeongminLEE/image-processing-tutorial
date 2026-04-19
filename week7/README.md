@@ -23,6 +23,5 @@
 
 ## Exercises
 
-- [ ] **Exercise 3.1** — Find the nearest-neighbor descriptor by hand with `np.linalg.norm`, report `d_min` and `d_second`
 - [ ] **Exercise 4.1** — Sweep Lowe's ratio threshold (0.5 / 0.7 / 0.9) and observe the precision–recall trade-off
 - [ ] **Exercise 5.1** — Compare `findHomography` with and without RANSAC by warping `img1` onto `img2`'s frame
