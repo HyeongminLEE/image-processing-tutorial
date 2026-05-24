@@ -22,6 +22,5 @@
 
 ## Exercises
 
-- [ ] **Exercise 2.1** — Predict the output and attention-weight shapes for a multi-head attention call
 - [ ] **Exercise 4.1** — Train the model on a different task (copy / shift) and predict its attention map
 - [ ] **Exercise 4.2** — Declare your own encoder with `nn.TransformerEncoder` and train it on the reverse task
