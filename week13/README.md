@@ -24,6 +24,4 @@
 ## Exercises
 
 - [ ] **Exercise 1.1** — Run the manual ViT pipeline on a street scene; why object-centric labels struggle
-- [ ] **Exercise 2.1** — Compare early-layer vs last-layer attention maps
 - [ ] **Exercise 3.1** — Zero-shot classify with your own labels + a prompt-engineering test
-- [ ] **Exercise 4.1** — Write your own retrieval queries (including a subject absent from the bank)
