@@ -22,5 +22,4 @@
 
 ## Exercises
 
-- [ ] **Exercise 4.1** — Train the model on a different task (copy / shift) and predict its attention map
-- [ ] **Exercise 4.2** — Declare your own encoder with `nn.TransformerEncoder` and train it on the reverse task
+- [ ] **Exercise 4.1** — Train the model on the shift task; predict how the attention band moves as you change the shift amount
