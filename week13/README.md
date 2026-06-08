@@ -2,18 +2,18 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HyeongminLEE/image-processing-tutorial/blob/main/week13/week13_practice.ipynb)
 
-## Instructions
+This is the **final lab**, so there are no graded exercises — we run everything together in
+class. To follow along on your own machine:
 
 1. Click the **Open In Colab** button above.
 2. Go to **File > Save a copy in Drive** to save it to your personal Google Drive.
-3. Freely modify and run cells in the copied notebook to practice.
-4. Complete all Exercises (write code **and run** every cell), then submit the notebook to e-class.
+3. Run the cells top to bottom, then tweak them freely — swap models, labels, thresholds,
+   and images to see what changes.
 
-- You may freely modify cells outside of Exercises (only Exercises are graded).
-- **Caution**: Redefining variables from earlier cells may break later Exercises.
 - The first run **downloads model weights** and caches them (YOLOS ~130 MB up to CLIP ~600 MB,
   BLIP ~990 MB). Everything runs on **CPU** — no GPU needed. One slow spot: SAM's
-  segment-everything cell (Section 4) takes about a minute on CPU.
+  segment-everything cell (Section 4) takes about a minute on CPU; every other model,
+  including BLIP captioning, runs in a second or two.
 
 ## Contents
 
@@ -24,8 +24,8 @@
 4. Segment everything — SAM (`mask-generation`)
 5. Bonus: image captioning — BLIP (processor → model → decode)
 
-## Exercises
+## Hands-on (we do these together)
 
-- [ ] **Exercise 1.1** — Pick any image-classification model from the Hub and run it on the parrots image
-- [ ] **Exercise 2.1** — Zero-shot classify the street scene with your own labels + a prompt-template test
-- [ ] **Exercise 3.1** — Run the detector on a new image, filter by score, and count one class
+- **After Section 1** — run another classifier from the Hub (Swin Transformer) and compare its top-1 with ViT's
+- **After Section 2** — zero-shot the street scene with our own labels + a prompt-template test
+- **After Section 3** — run the detector on a new street image, draw boxes, and count one class
